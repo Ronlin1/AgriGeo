@@ -9,7 +9,7 @@ import mlflow.sklearn
 import joblib
 
 # Load dataset from the CSV file
-data = pd.read_csv('uganda_data.csv')  
+data = pd.read_csv('predicting_food_crises_data.csv')  
 
 # Define the features (X) and the target variable (y)
 # Replace these with the actual column names from your dataset
@@ -21,9 +21,10 @@ X = data[features]
 # Handle missing values in the target variable
 imputer = SimpleImputer(strategy='mean')
 y = imputer.fit_transform(data[target_variable].values.reshape(-1, 1))
+X_imputed = imputer.fit_transform(X)
 
 # Split the data into a training set and a testing set (e.g., 80-20 split)
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X_imputed, y, test_size=0.2, random_state=42)
 
 # Create a linear regression model
 model = LinearRegression()

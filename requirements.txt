@@ -1,6 +1,2 @@
 mlflow
-dvc
-pandas
-sklearn
-flask
-grafana
+
