@@ -3,5 +3,4 @@ dvc
 pandas
 scikit-learn
 flask
-grafana
 numpy
