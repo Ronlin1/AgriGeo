@@ -1,7 +1,7 @@
 mlflow
 dvc
 pandas
-sklearn
+scikit-learn
 flask
 grafana
 numpy
