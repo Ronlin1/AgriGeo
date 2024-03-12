@@ -13,3 +13,6 @@ import joblib ejee
 imputer = SimpleImputer(strategy='mean')
 y = imputer.fit_transform(data[target_variable].values.reshape(-1, 1))
 X_imputed = imputer.fit_transform(X)
+
+# Make predictions on the test data
+y_pred = model.predict(X_test)
