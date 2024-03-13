@@ -16,6 +16,9 @@ This project focuses on leveraging geospatial data to enhance agricultural susta
 - Machine Learning Models
 - Interactive Data Visualization
 
+## Getting Started
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
 
 
 
