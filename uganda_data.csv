@@ -1,4 +1,4 @@
-centx,centy,year_month,year,month,fews_ipc,fews_ha,fews_proj_near,fews_proj_near_ha,fews_proj_med,fews_proj_med_ha,ndvi_mean,ndvi_anom,rain_mean,rain_anom,et_mean,et_anom,acled_count,acled_fatalities,p_staple_food,area,cropland_pct,pop,ruggedness_mean,pasture_pct
+country,admin_code,admin_name,centx,centy,year_month,year,month,fews_ipc,fews_ha,fews_proj_near,fews_proj_near_ha,fews_proj_med,fews_proj_med_ha,ndvi_mean,ndvi_anom,rain_mean,rain_anom,et_mean,et_anom,acled_count,acled_fatalities,p_staple_food,area,cropland_pct,pop,ruggedness_mean,pasture_pct
 Uganda,1201,Adjumani,31.7687,3.22862,2007_01,2007,1,,,,,,,0.4416494,99.03991,0.8219292,-0.8971213,5.279551,0.08330278,0,0,0.5886568,3101.366,37.6617,231973.6,33367.62,62.12821
 Uganda,1201,Adjumani,31.7687,3.22862,2007_02,2007,2,,,,,,,0.4275907,104.5597,10.17763,6.934374,2.476301,-0.5707073,0,0,0.5590233,3101.366,37.6617,231973.6,33367.62,62.12821
 Uganda,1201,Adjumani,31.7687,3.22862,2007_03,2007,3,,,,,,,0.4637194,94.05779,7.716635,-3.142334,3.934347,-4.395173,0,0,0.5872565,3101.366,37.6617,231973.6,33367.62,62.12821
