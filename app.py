@@ -13,18 +13,7 @@ def predict():
         # Assuming JSON input, make sure to replace 'feature1', 'feature2', etc., with your actual feature names
         data = request.json
         features = [
-            data['year'],
-            data['month'],
-            data['ndvi_mean'],
-            data['rain_mean'],
-            data['et_mean'],
-            data['acled_count'],
-            data['p_staple_food'],
-            data['area'],
-            data['cropland_pct'],
-            data['pop'],
-            data['ruggedness_mean'],
-            data['pasture_pct']
+          
         ]
 
         # Convert features to float (if needed)
