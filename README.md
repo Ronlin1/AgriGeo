@@ -14,7 +14,7 @@ This project focuses on leveraging geospatial data to enhance agricultural susta
 ### Features
 - Geospatial Data Processing
 - Machine Learning Models
-- Interactive Data Visualization
+- 
 
 
 
