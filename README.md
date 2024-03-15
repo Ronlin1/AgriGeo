@@ -12,9 +12,7 @@ This project focuses on leveraging geospatial data to enhance agricultural susta
 - **Sustainability:** Promote sustainable farming practices that can help conserve resources and protect the environment.
 
 ### Features
-- Geospatial Data Processing
-- Machine Learning Models
-- Interactive Data Visualization
+
 
 
 
