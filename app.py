@@ -1,4 +1,4 @@
-#Include the required libraries
+#Include all the required libraries
 from flask import Flask, request, jsonify
 import joblib
 import numpy as np
@@ -41,6 +41,6 @@ def predict():
 
     except Exception as e:
         return jsonify({'error': str(e)})
-
+#Run the app.
 if __name__ == '__main__':
     app.run(port=5000, debug=True)
