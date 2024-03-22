@@ -17,6 +17,8 @@ AgriGeo is a comprehensive project designed to harness the potential of geospati
 
 - **Interactive Data Visualization**: Create interactive dashboards and visualizations to communicate complex data insights in a user-friendly manner. These visualizations will enable stakeholders to explore geospatial patterns, trends, and predictions, facilitating informed decision-making.
 
+- **
+
 ## Relevant Features
 1. **Crop Yield Prediction**: Utilize historical and real-time data to forecast crop yields for different regions and seasons, considering factors such as weather conditions, soil properties, and agricultural practices.
 
