@@ -19,6 +19,7 @@ AgriGeo is a comprehensive project designed to harness the potential of geospati
 
 - **
 - **
+- **
 
 ## Relevant Features
 1. **Crop Yield Prediction**: Utilize historical and real-time data to forecast crop yields for different regions and seasons, considering factors such as weather conditions, soil properties, and agricultural practices.
