@@ -29,9 +29,7 @@ X_train, X_test, y_train, y_test = train_test_split(X_imputed, y, test_size=0.2,
 # Create a linear regression model
 model = LinearRegression()
 # model = Climatology++()
-# model = Persistance++()
-# model = 
-# model =  
+ 
 
 # Train the model on the training data
 model.fit(X_train, y_train)

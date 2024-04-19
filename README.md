@@ -1,4 +1,5 @@
 # AgriGeo: Enhancing Agricultural Sustainability in Uganda
+#
 
 ## Overview
 AgriGeo is a comprehensive project designed to harness the potential of geospatial data and advanced analytics to improve agricultural sustainability in Uganda. By integrating geospatial insights with data-driven methodologies, we aim to address critical challenges in the agricultural sector and contribute to food security, economic growth, and environmental conservation.
@@ -16,6 +17,10 @@ AgriGeo is a comprehensive project designed to harness the potential of geospati
 - **Machine Learning Models**: Develop and deploy advanced machine learning models tailored to the agricultural context. These models will encompass a range of techniques such as regression, classification, clustering, and time series analysis to address specific challenges faced by farmers and stakeholders.
 
 - **Interactive Data Visualization**: Create interactive dashboards and visualizations to communicate complex data insights in a user-friendly manner. These visualizations will enable stakeholders to explore geospatial patterns, trends, and predictions, facilitating informed decision-making.
+
+- **
+- **
+- **
 
 ## Relevant Features
 1. **Crop Yield Prediction**: Utilize historical and real-time data to forecast crop yields for different regions and seasons, considering factors such as weather conditions, soil properties, and agricultural practices.
