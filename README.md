@@ -33,6 +33,7 @@ Farm Zenith is a comprehensive project designed to harness the potential of geos
 6. **Socioeconomic Impact Assessment**: Evaluate the socioeconomic impact of agricultural interventions and policies on local communities, considering factors such as income generation, employment opportunities, and food security.
 
 7. **Decision Support Tools**: Develop decision support tools and applications to empower farmers, extension workers, and policymakers with actionable insights for improved agricultural planning and management.
+8. 
 
 Through Farm Zenith, we envision a future where data-driven innovations drive sustainable and resilient agricultural practices, ensuring food security, economic prosperity, and environmental stewardship for generations to come.
 
