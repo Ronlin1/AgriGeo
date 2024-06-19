@@ -14,7 +14,7 @@ Farm Zenith is a comprehensive project designed to harness the potential of geos
 ## Features
 - **Geospatial Data Processing**: Employ cutting-edge techniques to process and analyze geospatial data sourced from satellite imagery, remote sensing, and ground-based sensors. This includes preprocessing, feature extraction, and spatial analysis to derive actionable insights.
   
-- **Machine Learning Models**: Develop and deploy advanced machine learning models tailored to the agricultural context. These models will encompass a range of techniques such as regression, classification, clustering, and time series analysis to address specific challenges faced by farmers and stakeholders.
+- **Machine Learning Models' ensemble**: Develop and deploy advanced machine learning models tailored to the agricultural context. These models will encompass a range of techniques such as regression, classification, clustering, and time series analysis to address specific challenges faced by farmers and stakeholders.
 
 - **Interactive Data Visualization**: Create interactive dashboards and visualizations to communicate complex data insights in a user-friendly manner. These visualizations will enable stakeholders to explore geospatial patterns, trends, and predictions, facilitating informed decision-making.
 
